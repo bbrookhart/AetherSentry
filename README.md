@@ -54,7 +54,7 @@ That creates a dangerous gap.
 
 If an agent can be persuaded to ignore policy, reveal protected context, misuse tools, or execute unsafe workflows, the issue is no longer just model quality. It becomes a security architecture failure.
 
-**AegisGate** is built around one principle:
+**AetherSentry** is built around one principle:
 
 > AI systems should never directly trust the content they process.
 
