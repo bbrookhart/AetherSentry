@@ -1,6 +1,6 @@
 <div align="center">
 
-# AegisGate
+# AetherSentry
 ### Adversarial Prompt Injection Detector & Agent Firewall
 
 [![Python](https://img.shields.io/badge/Python-3.12+-blue?logo=python&logoColor=white)](https://www.python.org/)
