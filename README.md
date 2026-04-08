@@ -46,7 +46,7 @@ This project is designed to demonstrate **agentic AI security engineering, polic
 
 ---
 
-## Why AegisGate Matters
+## Why AetherSentry Matters
 
 Most organizations are rushing to deploy AI systems before they have a control plane for secure model interaction.
 
