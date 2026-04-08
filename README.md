@@ -15,7 +15,7 @@
 [![Status](https://img.shields.io/badge/Status-In%20Development-yellow)](#roadmap)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 
-**AegisGate** is a secure, real-time agent firewall and prompt security gateway that sits in front of LLMs and agentic systems to detect prompt injection, block jailbreaks, inspect untrusted retrieved content, score tool-use risk, and enforce policy before dangerous inputs ever reach downstream models or tools.
+**AetherSentry** is a secure, real-time agent firewall and prompt security gateway that sits in front of LLMs and agentic systems to detect prompt injection, block jailbreaks, inspect untrusted retrieved content, score tool-use risk, and enforce policy before dangerous inputs ever reach downstream models or tools.
 
 Built for secure autonomy, explainable enforcement, and human-governed agent operations.
 
@@ -29,7 +29,7 @@ As AI systems move from chat interfaces to autonomous agents, the attack surface
 
 The risk is no longer limited to bad model outputs. The real danger is when untrusted input manipulates an agent's reasoning, tool selection, permissions, memory, or downstream actions.
 
-**AegisGate** is designed to address that problem directly.
+**AetherSentry** is designed to address that problem directly.
 
 It acts as a policy-enforcing security layer between applications and model providers, helping defend against:
 
